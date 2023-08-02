@@ -1,0 +1,12 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "demo07",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "author": "Zhou jinjin",
+  "license": "ISC"
+}
